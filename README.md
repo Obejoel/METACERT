@@ -1,4 +1,4 @@
-# METACERT
+# MetaCert
 Verifiable Legacy: Digital Inheritance & Credentials Protocol
 
 Verifiable Legacy is a decentralized protocol built on Starknet that bridges the gap between digital asset accumulation and estate planning. It combines a "Dead Man's Switch" inheritance mechanism with Soulbound Tokens (SBTs) to ensure your digital wealth and achievements (like university degrees) are preserved and automatically transferred to your heirs if you become inactive.
