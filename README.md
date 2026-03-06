@@ -1,7 +1,7 @@
 # MetaCert
-Verifiable Legacy: Digital Inheritance & Credentials Protocol
+MetaCert: Digital Inheritance & Credentials Protocol
 
-Verifiable Legacy is a decentralized protocol built on Starknet that bridges the gap between digital asset accumulation and estate planning. It combines a "Dead Man's Switch" inheritance mechanism with Soulbound Tokens (SBTs) to ensure your digital wealth and achievements (like university degrees) are preserved and automatically transferred to your heirs if you become inactive.
+MetaCert is a decentralized protocol built on Starknet that bridges the gap between digital asset accumulation and estate planning. It combines a "Dead Man's Switch" inheritance mechanism with Soulbound Tokens (SBTs) to ensure your digital wealth and achievements (like university degrees) are preserved and automatically transferred to your heirs if you become inactive.
 
 🚀 The Problem: The Digital Inheritance Vacuum
 
@@ -9,7 +9,7 @@ In the current Web3 ecosystem, billions of dollars are lost due to misplaced key
 
 🛡️ The Solution
 
-Verifiable Legacy provides a trustless, automated system where:
+MetaCert provides a trustless, automated system where:
 
 Institutions issue verifiable, non-transferable certificates (SBTs).
 
@@ -57,7 +57,7 @@ Installation & Build
 Clone the repository:
 
 git clone [https://github.com/your-username/verifiable-legacy.git](https://github.com/your-username/verifiable-legacy.git)
-cd verifiable-legacy
+cd MetaCert
 
 
 Build the contracts:
